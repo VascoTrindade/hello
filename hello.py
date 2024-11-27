@@ -1,7 +1,6 @@
-def say_hi(name="Ricardo Campos"):
-    print(f'Hi, my name is {name}.')
-
-def city_hi(city="Covilhã"):
-    print(f"Hi, I live in {city}.")
+!pip list ```python
+def say_hi():
+    print('Hi, my name is Vasco Trindade.')
 
 __version__ = '0.1'
+```
